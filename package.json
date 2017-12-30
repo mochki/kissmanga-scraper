@@ -1,0 +1,11 @@
+{
+  "name": "one-piece",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "puppeteer": "^0.13.0",
+    "request": "^2.83.0"
+  }
+}
